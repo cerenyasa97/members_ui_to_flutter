@@ -1,0 +1,296 @@
+[
+  {
+    "group-1" : {
+      "name" : "Group 1",
+      "photo" : "assets/images/group_1.jpg",
+      "members" : [
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : []
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "edit"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "group-2" : {
+      "name" : "Group 2",
+      "photo" : "assets/images/group_2.jpg",
+      "members" : [
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : []
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "edit"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "group-3" : {
+      "name" : "Group 3",
+      "photo" : "assets/images/group_3.jpg",
+      "members" : [
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : []
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "edit"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "group-4" : {
+      "name" : "Group 4",
+      "photo" : "assets/images/group_1.jpg",
+      "members" : [
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : []
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "edit"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "group-5" : {
+      "name" : "Group 5",
+      "photo" : "assets/images/group_2.jpg",
+      "members" : [
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : []
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "edit"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "group-6" : {
+      "name" : "Group 6",
+      "photo" : "assets/images/group_3.jpg",
+      "members" : [
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : []
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "edit"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        },
+        {
+          "id" : "member 1",
+          "user_name" : "Omar Catbi",
+          "user_image" : "assets/images/user_image.jpg",
+          "job_description" : "Laboratory",
+          "phone_number" : "9555344",
+          "actions" : [
+            "message",
+            "block_user"
+          ]
+        }
+      ]
+    }
+  }
+]
